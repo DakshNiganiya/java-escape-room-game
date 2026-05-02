@@ -12,6 +12,3 @@ A text-based escape room game developed as part of a university assignment.
 - The basic project structure and environment (rooms, objects) were provided
 - All functional logic and game behavior were implemented by me
 
-## Technologies
-- Java
-- Object-Oriented Programming
